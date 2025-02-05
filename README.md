@@ -24,5 +24,4 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/juan-josé-jáuregui-2824b229a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jjjau03&show_icons=true&locale=en" alt="jjjau03" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjjau03&" alt="jjjau03" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjjau03&show_icons=true&locale=en&layout=compact" alt="jjjau03" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjjau03" alt="jjjau03" /></a></p>
