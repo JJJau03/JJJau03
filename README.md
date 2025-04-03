@@ -7,13 +7,11 @@
 - YOLO
 
 ### 📫 How to reach me
+- How to reach me *jauregui.juanjo03@gmail.com*
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/juan-josé-jáuregui-2824b229a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
 </p>
 
 ---
